@@ -89,8 +89,6 @@ Classifying data
 
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
- 
-# loading the iris dataset
 
 y=n_cluster
 # dividing X, y into train and test data
